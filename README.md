@@ -1,2 +1,10 @@
-# second-training-project-slider
-Мій другий тренувальний проект - слайдер
+# JS Slider
+
+## Технології 
+HTML5
+CSS3
+JavaScript (Vanilla JS)
+
+## Функціонал
+Перемикання слайдів кнопками "Next"/"Prev"
+
